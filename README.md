@@ -8,4 +8,4 @@ Su mercado va dirigido a hombres y mujeres mayores de 18 años que quieren adqui
 
 Listado de los participantes del grupo:
 -Leonel Aarón Monzón Olmedo
--Luciana 
+-Luciana Legrand
