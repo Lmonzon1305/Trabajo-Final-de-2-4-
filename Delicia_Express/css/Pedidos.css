@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 header{
-    background-image: url("fondoMadera.jpg");
+    background-image: url("../image/fondoMadera.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-top: 0px;
@@ -64,7 +64,7 @@ td {
 
 footer {
     margin-top: 170px;
-    background-image: url("fondoPizza.jpeg");
+    background-image: url("../image/fondoPizza.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: fixed;

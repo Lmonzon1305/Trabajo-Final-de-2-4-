@@ -46,7 +46,7 @@ function agregarFila( idTabla, data ) {
         //Boton modificar
         let botonModificar = document.createElement( "button" );
         let imgModificar = document.createElement( "img" );
-        imgModificar.src = "modificar.png";
+        imgModificar.src = "../image/modificar.png";
         imgModificar.className = "imagenModificar";
         botonModificar.appendChild( imgModificar );
         columnaAcciones.appendChild( botonModificar );
@@ -54,7 +54,7 @@ function agregarFila( idTabla, data ) {
         //Boton eliminar
         let botonEliminar = document.createElement( "button" );
         let imgEliminar = document.createElement( "img" );
-        imgEliminar.src = "eliminar.png";
+        imgEliminar.src = "../image/eliminar.png";
         imgEliminar.className = "imagenEliminar";
         botonEliminar.appendChild( imgEliminar );
         columnaAcciones.appendChild( botonEliminar );
